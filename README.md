@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on software development projects focused on real-world problem solving and application development,<br><br>I'm looking to collaborate on open-source<br><br>I'm looking for help with<br><br>projects, innovative app ideas, and Al-driven<br><br>solutions,<br><br>advanced system design, scalable<br><br>architectures, and deploying intelligent<br><br>applications, I'm currently learning Artificial<br><br>Intelligence, Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), deep learning concepts, and modern app<br><br>development practices, ask me about programming fundamentals, Git & GitHub, Python, data structures, Al/ML basics, and building applications, and a fun fact about me is that I enjoy simplifying complex technical problems into efficient, practical solutions while constantly exploring new technologies.
+I’m currently working on software development projects focused on real-world problem solving and application development. I’m looking to collaborate on open-source projects and innovative app ideas, especially those involving AI-driven solutions. I’m also seeking help with advanced system design, scalable architectures, and deploying intelligent applications.
+
+I’m currently learning Artificial Intelligence, Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), deep learning concepts, and modern app development practices. Ask me about programming fundamentals, Git & GitHub, Python, data structures, AI/ML basics, and building applications. A fun fact about me is that I enjoy simplifying complex technical problems into efficient, practical solutions while constantly exploring new technologies.
 
 
 ## 🌐 Socials:
